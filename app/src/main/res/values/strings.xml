@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">z-android</string>
+    <string name="helloworld">Helloworld</string>
+    <string name="backup">备份</string>
+    <string name="query">查询</string>
+    <string name="update">修改</string>
+    <string name="del">删除</string>
+    <string name="add">添加</string>
+    <string name="transtation">事务</string>
+    <string name="looksource">查看源码</string>
+    <string name="upload">上传</string>
+    <string name="download">下载</string>
+</resources>
